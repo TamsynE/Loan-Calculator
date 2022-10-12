@@ -2,7 +2,7 @@
 
 Group project: team of 3.
 
-This project is a console application that accepts at four command line arguments, in this order: 
+This project is a console application that accepts four command line arguments, in this order: 
  (1) the original loan amount 
  (2) the loan’s annual interest rate
  (3) the number of months in the loan term
